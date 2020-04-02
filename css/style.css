@@ -1,4 +1,29 @@
 /* Styles for your homework one assignment */
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
 body {
-  color: red;
+  background-color: #FFE533;
+}
+
+.background {
+  margin: auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+.icon-home-btn {
+  margin: 2vw;
+  text-align: left;
+  border: 2px solid white;
+}
+
+.icon-home-btn h1 {
+  font-size: 5vw;
+  letter-spacing: -.15vw;
+  color: black;
+  margin: 40px;
 }
